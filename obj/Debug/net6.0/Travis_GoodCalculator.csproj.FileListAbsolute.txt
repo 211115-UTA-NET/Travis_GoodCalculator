@@ -1,0 +1,15 @@
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\obj\Debug\net6.0\Travis_GoodCalculator.csproj.AssemblyReference.cache
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\obj\Debug\net6.0\Travis_GoodCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\obj\Debug\net6.0\Travis_GoodCalculator.AssemblyInfoInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\obj\Debug\net6.0\Travis_GoodCalculator.AssemblyInfo.cs
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\obj\Debug\net6.0\Travis_GoodCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\bin\Debug\net6.0\Travis_GoodCalculator.exe
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\bin\Debug\net6.0\Travis_GoodCalculator.deps.json
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\bin\Debug\net6.0\Travis_GoodCalculator.runtimeconfig.json
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\bin\Debug\net6.0\Travis_GoodCalculator.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\bin\Debug\net6.0\ref\Travis_GoodCalculator.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\bin\Debug\net6.0\Travis_GoodCalculator.pdb
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\obj\Debug\net6.0\Travis_GoodCalculator.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\obj\Debug\net6.0\ref\Travis_GoodCalculator.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\obj\Debug\net6.0\Travis_GoodCalculator.pdb
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_GoodCalculator\obj\Debug\net6.0\Travis_GoodCalculator.genruntimeconfig.cache
